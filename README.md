@@ -44,7 +44,7 @@ npx medusa db:migrate
 
 ## 🖼️ Screenshots
 **Arabic Invoice Preview:**  
-![Arabic Invoice](https://example.com/path-to-your-screenshot.jpg)
+![Arabic Invoice Preview](https://github.com/specture48/medusa-documents-arabic/raw/main/docs/arabic-invoice.png)
 
 ---
 
