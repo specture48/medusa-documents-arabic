@@ -20,7 +20,7 @@ A plugin for **Medusa.js** that generates PDF documents (e.g., invoices, packing
 1. Install the plugin via `package.json`:
 ```json
 "dependencies": {
-  "medusa-documents-arabic": "0.1.6" // Your package version
+  "medusa-documents-arabic": "0.0.1"
 }
 ```
 Run `yarn install` or `npm install`.
