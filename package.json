@@ -1,15 +1,15 @@
 {
-  "name": "@oneshop/medusa-documents",
+  "name": "medusa-documents-arabic",
   "version": "0.0.1",
   "description": "Generate documents from Medusa",
-  "author": "RSC Labs (https://rsoftcon.com)",
+  "author": "Specture48",
   "license": "MIT",
   "files": [
     ".medusa/server"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RSC-Labs/medusa-documents"
+    "url": "https://github.com/specture48/medusa-documents-arabic"
   },
   "keywords": [
     "medusa-plugin",
